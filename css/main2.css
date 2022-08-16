@@ -1,0 +1,105 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Anton', sans-serif;
+	font-family: "Open sans", sans-serif;
+	color: 000;
+	font-size: 16px; 
+	background: #808080;
+}
+h1, h2, h3, h4, h5, h6 {
+	padding: 0;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+.logo {
+	width: 50px;
+	height: 20px;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+
+.s1 {
+
+}
+
+.content {
+	margin-top: 10px;
+}
+
+.etot {
+	margin-top: 20px;
+	font-size: 30px;
+	margin-left: 450px;
+	color: yellow;
+}
+
+.cat1 {
+	height: 100px;
+	width: 100px;
+	margin-left: 100px;
+}
+
+.cat2 {
+	width: 100px;
+	height: 100px;
+	margin-left: 200px;
+}
+
+.cat3 {
+	width: 100px;
+	height: 100px;
+	margin-left: 200px;
+}
+.cat4 {
+	width: 100px;
+	height: 100px;
+	margin-left: 200px;
+}
+
+.dog1 {
+	width: 100px;
+	height: 100px;
+	margin-left: 250px;
+}
+
+.dog2 {
+	width: 100px;
+	height: 100px;
+	margin-left: 210px;
+}
+.dog3 {
+	width: 100px;
+	height: 100px;
+	margin-left: 200px;
+}
+
+.footer {
+	background: white;
+	height: 100px;
+	width: 1263px;
+	margin-top: 300px;
+	 background: rgb(77,190,254);
+    background: radial-gradient(circle, rgba(77,190,254,1) 0%, rgba(254,77,202,1) 100%, rgba(0,212,255,1) 100%)
+}
+
+.img {
+	height: 400px;
+	margin-left: 400px;
+	margin-top: 1000px;
+}
+.ne {
+	color: blue;
+	margin-left: 600px;
+   
+}
+
+.btn {
+	background: black;
+    color: white;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 100px;
+    text-align: center;
+}
